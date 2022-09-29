@@ -15,7 +15,11 @@ h1, h2 {
     text-align: center;
 }
 
-.texto-tintas {
+p {
+    font-size: 18px;
+}
+
+.texto-informativo {
     margin: 0 auto;
     text-align: left;
     width: 860px;
