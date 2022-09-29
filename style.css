@@ -25,7 +25,7 @@ p, li {
 
 .texto-informativo {
     margin: 0 auto;
-    text-align: left;
+    text-align: justify;
     width: 860px;
     max-width: 85vw;
 }
