@@ -28,6 +28,7 @@ section {
 
 .texto-obras {
     width: 860px;
+    max-width: 85vw;
 }
 
 .imagens-obras {
@@ -35,6 +36,7 @@ section {
     flex-wrap: wrap;
     justify-content: center;
     align-content: center;
+    width: 85vw;
 }
 
 img {
