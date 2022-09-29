@@ -18,12 +18,16 @@ section {
 
 .obras {
     margin: 0 auto;
-    width: 860px;
     max-width: 85%;
 }
 
 .texto-obras {
+    margin: 0 auto;
     text-align: center;
+}
+
+.texto-obras {
+    width: 860px;
 }
 
 .imagens-obras {
