@@ -7,5 +7,33 @@ section {
 }
 
 .imagens {
-    width: 20%;
+    height: 256px;
+    max-width: 85vw;
+}
+
+.obras {
+    margin: 0 auto;
+    width: 860px;
+    max-width: 85%;
+}
+
+.texto-obras {
+    text-align: center;
+}
+
+.imagens-obras {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+img {
+    margin-inline: 10px;
+}
+
+figcaption {
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
 }
