@@ -2,12 +2,15 @@
     background-color: #2d2d2d;
 }
 
+article {
+    margin-top: 10px;
+}
 section {
     margin: 20px;
 }
 
 .imagens {
-    height: 256px;
+    height: 350px;
     max-width: 85vw;
 }
 
