@@ -1,3 +1,11 @@
 .navbar {
     background-color: #2d2d2d;
 }
+
+section {
+    margin: 20px;
+}
+
+.imagens {
+    width: 20%;
+}
