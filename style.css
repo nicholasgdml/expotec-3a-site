@@ -36,7 +36,6 @@ p, li {
 
 .imagens {
     height: 25vw;
-    min-height: 256px;
     max-width: 80vw;
 }
 
@@ -68,4 +67,12 @@ figcaption {
     font-size: 18px;
     text-align: center;
     margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+    imagens {
+        width: 85vw;
+        height: auto;
+        min-height: none;
+        max-width: none;   
 }
