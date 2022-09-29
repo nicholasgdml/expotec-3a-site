@@ -36,6 +36,7 @@ p, li {
 
 .imagens {
     height: 25vw;
+    min-height: 256px;
     max-width: 80vw;
 }
 
