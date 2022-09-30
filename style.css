@@ -36,7 +36,8 @@ p, li {
 
 .imagens {
     height: 25vw;
-    max-width: 80vw;
+    max-width: 85vw;
+    min-widht: 300px
 }
 
 .obras {
