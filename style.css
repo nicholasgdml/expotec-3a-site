@@ -56,7 +56,6 @@ p, li {
     flex-wrap: wrap;
     justify-content: center;
     align-content: center;
-    width: 85vw;
 }
 
 img {
@@ -70,9 +69,10 @@ figcaption {
 }
 
 @media screen and (max-width: 767px) {
-    imagens {
-        width: 85vw;
+    .imagens {
+        width: 256px;
         height: auto;
         min-height: none;
-        max-width: none;   
+        max-width: none;
+    }
 }
